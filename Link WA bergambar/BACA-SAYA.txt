@@ -1,0 +1,7 @@
+HALAMAN LINK BYE.DIMSUM (untuk tampilan gambar di WhatsApp)
+
+Di file index.html dan admin/index.html, ganti 2 teks ini (Notepad: Ctrl+H, Ganti Semua):
+  ALAMAT_APLIKASI  ->  link aplikasi Apps Script Anda, contoh https://script.google.com/macros/s/xxxx/exec
+  ALAMAT_SITUS     ->  alamat GitHub Pages Anda, contoh https://namaanda.github.io/byedimsum
+
+Jangan beri garis miring (/) di akhir kedua alamat.
